@@ -1,4 +1,3 @@
-#!bin/bash
 Understanding Hell, I mean shell, or did I?
 =======
 
